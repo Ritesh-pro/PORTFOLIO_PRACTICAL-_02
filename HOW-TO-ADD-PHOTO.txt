@@ -1,0 +1,21 @@
+HOW TO ADD YOUR PHOTO
+=====================
+
+1. Put your photo in THIS folder (the same folder as index.html).
+
+2. Name the file exactly:  profile.jpg
+
+   - If your photo is PNG, rename it to profile.jpg
+     OR save/export it again as JPG and name it profile.jpg
+
+3. Refresh the portfolio page in your browser.
+
+Your portfolio folder should look like:
+  portfolio/
+    index.html
+    about.html
+    ...
+    profile.jpg   <-- your photo here
+    HOW-TO-ADD-PHOTO.txt
+
+That's it. The same photo will show on the home page (large) and in the top corner next to "Ritesh" on every page.
